@@ -111,17 +111,9 @@ function mostrarInformacion(li) {
     alert(
       'El contenido del element "2" es Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio vitae illum at quidem voluptates! At veritatis fuga accusamus aliquid, nulla aliquam, error sint dignissimos iste, non sed commodi fugiat vero!'
     );
-  }else if (li.id == 3) {
-    alert(
-      'El contenido del element "3" es Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio vitae illum at quidem voluptates! At veritatis fuga accusamus aliquid, nulla aliquam, error sint dignissimos iste, non sed commodi fugiat vero!'
-    );
-  }else if (li.id == 4) {
-    alert(
-      'El contenido del element "4" es Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio vitae illum at quidem voluptates! At veritatis fuga accusamus aliquid, nulla aliquam, error sint dignissimos iste, non sed commodi fugiat vero!'
-    );
   } else {
     alert(
-      'El contenido del element "5" es Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio vitae illum at quidem voluptates! At veritatis fuga accusamus aliquid, nulla aliquam, error sint dignissimos iste, non sed commodi fugiat vero!'
+      'El contenido del element "3" es Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio vitae illum at quidem voluptates! At veritatis fuga accusamus aliquid, nulla aliquam, error sint dignissimos iste, non sed commodi fugiat vero!'
     );
   }
 }
